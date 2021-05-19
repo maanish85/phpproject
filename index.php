@@ -1,3 +1,3 @@
 <?php
-echo "TEST PHP PROJECT---Version 1";
+echo "TEST PHP PROJECT---Version 2";
 ?>
